@@ -1,6 +1,5 @@
 import pymongo
 import os
-import json
 import subprocess
 
 from tkinter import filedialog
